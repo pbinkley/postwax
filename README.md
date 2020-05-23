@@ -16,7 +16,7 @@ Here are a couple of rake tasks that can be included in a [Wax](https://github.c
     - manage sub-sets of collections, perhaps grouping by prefix in the pids
     - add item-level pages
 
-Some Wax issues might benefit from these workarounds (or from better solutions to these problems): minicomp/wax#66, minicomp/wax#74, minicomp/wax#78 
+Some Wax issues might benefit from these workarounds (or from better solutions to these problems): [minicomp/wax#66](https://github.com/minicomp/wax/issues/66), [minicomp/wax#74](https://github.com/minicomp/wax/issues/74), [minicomp/wax#78](https://github.com/minicomp/wax/issues/78)
 
 ## Installation and use
 
